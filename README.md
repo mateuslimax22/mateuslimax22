@@ -44,5 +44,5 @@
   <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
  <br> 
-🔭 I’m currently working on [**KnowCode**](https://www.linkedin.com/in/mateus-limax/#)
+🔭 I’m currently working on [**Uplink**](https://www.linkedin.com/in/mateus-limax/#)
 

@@ -10,7 +10,6 @@
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="30" src="http://3con14.biz/code/_data/js/intro/js-logo.png" />
-  <img align="center" height="50" width="50" src="https://camo.githubusercontent.com/dbe670ecea36b59366b09cb0f6530898d02409129b1663be0ff31e753a527e07/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61372f52656163742d69636f6e2e737667" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="30" width="35" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -19,7 +18,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=68&color=9c9c9c" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
  <br> 
